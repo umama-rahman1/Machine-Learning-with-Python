@@ -20,3 +20,9 @@ This is the repository for FreeCodeCamp course of Machine Learning with Python.
 |[CIFAR Image Identifier](CIFAR_Image_Identifier/CIFAR_Image_Identifier.ipynb)|Using **Convolutional Neural Network** *(CNN)* to process [CIFAR Image Dataset](https://www.cs.toronto.edu/~kriz/cifar.html) which  contains 60,000 32x32 color images of 10 different everday objects |
 |[Cat vs Dog Identifier](Cat_vs_Dog_Identifier/Cat_vs_Dog_Identifier.ipynb) | Made model using Google's **Pretrained Model** to predict Cat and Dog images |
 
+### Natural Language Processing
+Using **Recurrent Neural Network** (RNN) to process natural language
+| Link | Description|
+| --- | --- |
+|[Movie Reviewer](Movie_Reviewer/Movie_Reviewer_(Sentiment_Analysis).ipynb) | Used a RNN to make a sentiment predictor in Movie Reviews in IMDB |
+| | |
