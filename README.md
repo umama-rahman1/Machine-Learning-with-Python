@@ -25,4 +25,4 @@ Using **Recurrent Neural Network** (RNN) to process natural language
 | Link | Description|
 | --- | --- |
 |[Movie Reviewer](Movie_Reviewer/Movie_Reviewer_(Sentiment_Analysis).ipynb) | Used a RNN to make a sentiment predictor in Movie Reviews in IMDB |
-| | |
+|[Play Generator](Play_Generator/RNN_Play_Generator.ipynb) | Used a RNN to create a play generator using Romeo and Juliet play|
