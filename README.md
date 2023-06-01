@@ -26,3 +26,8 @@ Using **Recurrent Neural Network** (RNN) to process natural language
 | --- | --- |
 |[Movie Reviewer](Movie_Reviewer/Movie_Reviewer_(Sentiment_Analysis).ipynb) | Used a RNN to make a sentiment predictor in Movie Reviews in IMDB |
 |[Play Generator](Play_Generator/RNN_Play_Generator.ipynb) | Used a RNN to create a play generator using Romeo and Juliet play|
+
+### Reinforcement Learning
+| Link | Description|
+| --- | --- |
+|[Open AI Gym](Open_AI_Gym/Open_AI_Gym.ipynb) | Using Open AI's Gym module using Frozen Lake v1 for reinforcement learning |
